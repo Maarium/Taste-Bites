@@ -1,0 +1,1 @@
+A frontpage of a resturant website designed with HTML, CSS and JavaScript having three main sectoions Hero section, Menu section by applyin javascript functionality for category wise menu, and a login form for staff which after login shows status of different products ordered. It is just a design base project just like a simple static website landing page.
